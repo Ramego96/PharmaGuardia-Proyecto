@@ -1,0 +1,161 @@
+body { /*
+    background-image: url(/html4/imagenes/fondo.webp);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: monospace;
+*/    
+}
+
+
+
+.contacto form {
+width: 450px;
+margin: auto;
+background: rgba(0, 0, 0, 0.4);
+padding: 10px 20px;
+box-sizing: border-box;
+margin-top: 20px;
+border-radius: 50px;
+font-family: sans-serif;
+
+}
+
+.intro h1 {
+text-align: center;
+font-size: 20px ;
+color: #fff;
+font-family: sans-serif;
+}
+
+.contacto p{
+color: #fff;
+font-size: 18px ;
+font-family: sans-serif;
+}
+
+.intro p{
+text-align: center;
+font-size: 20px ;
+color: #fff;  
+font-family: sans-serif;
+
+}
+
+.contacto input{
+color: rgb(0, 0, 0);  
+text-align: left;
+font-size: 17px ;
+font-family: sans-serif;
+
+}
+
+.contacto .boton input{
+    text-align: center;
+    background: #29499b;
+    color: #fff;
+    padding: 10px;
+}
+
+#busca .boton button {
+text-align: center;
+background: #29499b;
+color: #fff;
+padding: 8.5px;
+}
+            
+.contacto h2 {
+color: #fff;
+text-align: center;
+margin: 0;
+font-size: 20px;
+margin-bottom: 10px;
+font-family: sans-serif;
+}
+          
+input,textarea {
+width: 100%;
+margin-bottom:10px;
+padding: 1px;
+box-sizing: border-box;
+font-size: 17px;
+border: none;
+font-family: sans-serif;
+
+}
+            
+textarea {
+min-height: 100px;
+max-height: 200px;
+max-width: 100%;
+}
+                             
+.boton:hover {
+cursor: pointer;
+}
+
+.mapa img{
+float: center;
+max-width: 800px;
+height: 300px;
+display: block;
+margin: 0px auto;
+}
+
+.mapa h4{
+color: #fff;
+text-align: left;
+margin: 0;
+font-size: 15px;
+margin-bottom: 10px;
+font-family: sans-serif;
+}
+
+.mapa p {
+color: #fff;
+text-align: left;
+margin: 0;
+font-size: 15px;
+margin-bottom: 10px;
+font-family: sans-serif;
+}
+
+.mapa h3{
+color: rgb(14, 13, 13);
+text-align: right;
+margin: 0;
+font-size: 20px;
+margin-bottom: 10px;
+font-family: sans-serif;
+padding-right: 500px;
+
+}
+
+.informacion h4{
+font-size: 20px;
+color: rgb(0, 0, 0);
+padding-left: 380px;
+font-family: sans-serif;
+}
+
+.informacion h5{
+font-size: 17px;
+color: rgb(0, 0, 0);
+padding-left: 380px;
+font-family: sans-serif;
+}
+
+.informacion p{
+font-size: 17px;
+color: rgb(0, 0, 0);
+padding-left: 380px; 
+font-family: sans-serif;
+}
+
+.informacion img{
+float: right;
+margin-bottom: 30px;
+padding-right: 500px;
+}
+
+
